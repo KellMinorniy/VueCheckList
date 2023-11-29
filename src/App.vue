@@ -1,18 +1,13 @@
 <script setup>
-
+import AddProblem from './components/AddProblem.vue';
 </script>
 
 <template>
-  <header>
-
-    <div class="wrapper">
-    </div>
-  </header>
-
   <main>
-    <TheWelcome />
+    <AddProblem />
   </main>
 </template>
 
 <style scoped>
+
 </style>
